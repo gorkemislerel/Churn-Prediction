@@ -1,7 +1,7 @@
 # Churn Prediction
 
-## INSTALLATION
-### To Run, You Just Need to Download the Application File.
+## HOW TO RUN?
+### Clone repo and open application folder to run it.
 ------------------------------------------------------------------------------------------
 ## PROJECT REWIEW
 --------------------------------------------------
