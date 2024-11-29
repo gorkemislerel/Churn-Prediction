@@ -1,7 +1,7 @@
 # Churn Prediction
 
 ## HOW TO RUN?
-### Clone repo and open application folder to run it.
+### Clone repo then open application folder to run it.
 ------------------------------------------------------------------------------------------
 ## PROJECT REWIEW
 --------------------------------------------------
